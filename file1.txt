@@ -1,2 +1,4 @@
 password
+hello
+red
 blue
